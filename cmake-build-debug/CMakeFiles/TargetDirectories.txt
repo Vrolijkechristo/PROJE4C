@@ -1,3 +1,0 @@
-C:/Users/chris/CLionProjects/PROJE4C/cmake-build-debug/CMakeFiles/PROJE4C.dir
-C:/Users/chris/CLionProjects/PROJE4C/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/chris/CLionProjects/PROJE4C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
